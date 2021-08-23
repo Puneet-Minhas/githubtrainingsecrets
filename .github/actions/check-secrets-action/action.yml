@@ -3,7 +3,7 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  mynewsecret:
+  your-secret:
     description: mynewsecret
     required: true
   secrets-context:
