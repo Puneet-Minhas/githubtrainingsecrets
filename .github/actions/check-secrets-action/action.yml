@@ -3,8 +3,8 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  MYNEWSECRET:
-    description: MYNEWSECRET
+  MY_SECRET:
+    description: Kuch bhi
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
