@@ -4,7 +4,7 @@ description: validation action for this lab
 
 inputs:
   MY_SECRET:
-    description: Kuch bhi
+    description: MY_SECRET
     required: true
   secrets-context:
     description: The GitHub Actions secrets context object
